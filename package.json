@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "clean": "rimraf dist",
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "next",
+    "rimraf": "latest"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
