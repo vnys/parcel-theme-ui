@@ -5,10 +5,13 @@
   },
   "devDependencies": {
     "parcel": "next",
+    "prettier": "^2.0.5",
     "rimraf": "latest"
   },
   "dependencies": {
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-helmet": "^6.1.0",
+    "theme-ui": "^0.3.1"
   }
 }
